@@ -1,0 +1,31 @@
+{
+  "name": "mecha",
+  "displayName": "Mecha",
+  "description": "Mecha dark theme for VS Code",
+  "version": "0.0.2",
+  "publisher": "lucafalasco",
+  "galleryBanner": {
+    "color": "#1d2936",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.39.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Mecha",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mecha-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lucafalasco/mecha.git"
+  },
+  "homepage": "https://github.com/lucafalasco/mecha/blob/master/README.md"
+}
