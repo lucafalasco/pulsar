@@ -108,6 +108,8 @@
     "editorGutter.deletedBackground": "#E95D5C",
     "diffEditor.insertedTextBackground": "#5ce9a430",
     "diffEditor.removedTextBackground": "#E95D5C35",
+    "diffEditor.insertedTextBorder": "#5ce9a4",
+    "diffEditor.removedTextBorder": "#E95D5C",
     "editorWidget.background": "#042743",
     "editorWidget.resizeBorder": "#06355d",
     "editorSuggestWidget.background": "#052e50",
@@ -211,7 +213,6 @@
     },
     {
       "scope": [
-        "entity.name.type",
         "support.type.primitive",
         "support.type.builtin",
         "meta.type.annotation entity.name.type",
@@ -231,11 +232,13 @@
         "keyword.operator.new"
       ],
       "settings": {
-        "foreground": "#e95d5c"
+        "foreground": "#e95d5c",
+        "fontStyle": "bold"
       }
     },
     {
       "scope": [
+        "entity.name.type",
         "entity.name.function",
         "support.class",
         "support.function",
@@ -243,7 +246,8 @@
         "entity.other.inherited-class"
       ],
       "settings": {
-        "foreground": "#5ce8e9"
+        "foreground": "#5ce8e9",
+        "fontStyle": "bold"
       }
     },
     {
@@ -315,7 +319,8 @@
     {
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#e95d5c"
+        "foreground": "#e95d5c",
+        "fontStyle": "bold"
       }
     },
     {
