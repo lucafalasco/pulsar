@@ -1,5 +1,10 @@
-# Mecha 
+<p align="center">
+  <a href="https://marketplace.visualstudio.com/items?itemName=lucafalasco.mecha" target="_blank">
+    <img src="https://raw.githubusercontent.com/lucafalasco/mecha/master/assets/icon.png" width="200px" />
+  </a>
+  <h3 align="center"><code>mecha</code></h3>
+</p>
 
-<!-- <p align="center">
-  <img src="https://raw.githubusercontent.com/lucafalasco/mecha/master/assets/mecha.png" width="250px" style="margin: 50px;"/>
-</p> -->
+___
+
+A dark theme for VS code. 
