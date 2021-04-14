@@ -127,8 +127,11 @@
     "panel.background": "#031f36",
     "panel.dropBorder": "#e95d5c",
     "panelTitle.activeBorder": "#e95d5c",
-    "statusBar.background": "#031f36",
-    "statusBarItem.hoverBackground": "#042d4f",
+    "statusBar.background": "#e95d5c",
+    "statusBar.foreground": "#031f36",
+    "statusBar.noFolderBackground": "#e95d5c",
+    "statusBar.noFolderForeground": "#031f36",
+    "statusBarItem.hoverBackground": "#b64948",
     "statusBarItem.prominentBackground": "#e95d5c",
     "statusBarItem.prominentForeground": "#000000",
     "statusBarItem.prominentHoverBackground": "#d05352",
@@ -152,7 +155,7 @@
     "terminal.selectionBackground": "#e95d5c",
     "terminalCursor.foreground": "#e95d5c",
     "terminalCursor.background": "#000000",
-    "terminal.ansiBrightBlack": "#efefef",
+    "terminal.ansiBrightBlack": "#074476",
     "terminal.ansiBrightBlue": "#5ce8e9",
     "terminal.ansiBrightCyan": "#5ca2e9",
     "terminal.ansiBrightGreen": "#5ce9a4",
@@ -160,7 +163,7 @@
     "terminal.ansiBrightRed": "#e95d5c",
     "terminal.ansiBrightWhite": "#ffffff",
     "terminal.ansiBrightYellow": "#e9e95c",
-    "terminal.ansiBlack": "#efefef",
+    "terminal.ansiBlack": "#074476",
     "terminal.ansiBlue": "#5ce8e9",
     "terminal.ansiCyan": "#5ca2e9",
     "terminal.ansiGreen": "#5ce9a4",
@@ -302,7 +305,7 @@
         "source.rust meta.type_params.rust"
       ],
       "settings": {
-        "foreground": "#b5b5b5"
+        "foreground": "#FFFFFF"
       }
     },
     {
