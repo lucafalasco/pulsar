@@ -2,10 +2,10 @@
   "name": "mecha",
   "displayName": "Mecha",
   "description": "Mecha dark theme for VS Code",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "publisher": "lucafalasco",
   "galleryBanner": {
-    "color": "#1d2936",
+    "color": "#E95D5C",
     "theme": "dark"
   },
   "engines": {
