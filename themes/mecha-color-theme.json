@@ -85,7 +85,7 @@
     "editorIndentGuide.background": "#06355d",
     "editorIndentGuide.activeBackground": "#e95d5c",
     "editorRuler.foreground": "#06355d",
-    "editorBracketMatch.border": "#b64948",
+    "editorBracketMatch.border": "#e9e95c",
     "editorBracketMatch.background": "#04243e",
     "editor.foldBackground": "#5ce8e930",
     "editorOverviewRuler.border": "#06355d",
