@@ -243,7 +243,8 @@
         "meta.type.parameters entity.name.type"
       ],
       "settings": {
-        "foreground": "#e9e95c"
+        "foreground": "#e9e95c",
+        "fontStyle": ""
       }
     },
     {
@@ -283,7 +284,8 @@
         "source.jsx punctuation.section.embedded"
       ],
       "settings": {
-        "foreground": "#e9e95c"
+        "foreground": "#e9e95c",
+        "fontStyle": ""
       }
     },
     {
