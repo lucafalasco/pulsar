@@ -2,7 +2,7 @@
   "name": "mecha",
   "type": "dark",
   "colors": {
-    "focusBorder": "#e95d5c",
+    "focusBorder": "#e95d5c80",
     "foreground": "#ffffff",
     "widget.shadow": "#02182a",
     "selection.background": "#e95d5c80",
@@ -28,7 +28,7 @@
     "inputValidation.warningBackground": "#E95D5C90",
     "inputValidation.warningBorder": "#E95D5C",
     "inputValidation.warningForeground": "#000000",
-    "scrollbar.shadow": "#010b13",
+    "scrollbar.shadow": "#02182a",
     "scrollbarSlider.background": "#09539050",
     "scrollbarSlider.hoverBackground": "#0a62a940",
     "scrollbarSlider.activeBackground": "#07447640",
@@ -54,7 +54,8 @@
     "sideBarSectionHeader.background": "#052a4a",
     "minimap.selectionHighlight": "#e95d5c80",
     "minimap.errorHighlight": "#E95D5C",
-    "minimap.warningHighlight": "#E95D5C",
+    "minimap.warningHighlight": "#e9e95c",
+    "minimap.background": "#031f36",
     "minimapGutter.addedBackground": "#5ce9a4",
     "minimapGutter.deletedBackground": "#E95D5C",
     "minimapGutter.modifiedBackground": "#5ce8e9",
@@ -85,7 +86,7 @@
     "editorIndentGuide.background": "#06355d",
     "editorIndentGuide.activeBackground": "#e95d5c",
     "editorRuler.foreground": "#06355d",
-    "editorBracketMatch.border": "#e9e95c",
+    "editorBracketMatch.border": "#ffffff",
     "editorBracketMatch.background": "#04243e",
     "editor.foldBackground": "#5ce8e930",
     "editorOverviewRuler.border": "#06355d",
@@ -131,6 +132,7 @@
     "statusBar.foreground": "#031f36",
     "statusBar.noFolderBackground": "#e95d5c",
     "statusBar.noFolderForeground": "#031f36",
+    "statusBar.debuggingBackground": "#5ce9a4",
     "statusBarItem.hoverBackground": "#b64948",
     "statusBarItem.prominentBackground": "#e95d5c",
     "statusBarItem.prominentForeground": "#000000",
@@ -241,7 +243,7 @@
         "meta.type.parameters entity.name.type"
       ],
       "settings": {
-        "foreground": "#e95d5c"
+        "foreground": "#e9e95c"
       }
     },
     {
@@ -268,8 +270,7 @@
         "entity.other.inherited-class"
       ],
       "settings": {
-        "foreground": "#5ce8e9",
-        "fontStyle": "bold"
+        "foreground": "#5ce8e9"
       }
     },
     {
@@ -282,7 +283,7 @@
         "source.jsx punctuation.section.embedded"
       ],
       "settings": {
-        "foreground": "#FFFFFF"
+        "foreground": "#e9e95c"
       }
     },
     {
@@ -476,7 +477,8 @@
     {
       "scope": ["meta.property-name", "support.type.property-name"],
       "settings": {
-        "foreground": "#b5b5b5"
+        "foreground": "#ffffff",
+        "fontStyle": ""
       }
     },
     {
